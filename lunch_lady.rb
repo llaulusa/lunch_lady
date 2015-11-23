@@ -15,11 +15,11 @@
 
 def order
 
-food={"hotdogs" => 2.50, "hamburgers" => 2.95, "tacos" => 2.99, 
+food={"hotdog" => 2.50, "hamburger" => 2.95, "tacos" => 2.99, 
 	"salad" => 1.50, "fruit" => 1.75, "fries" => 2.25, "coleslaw" => 2.75}
 	
 puts "Lunch Lady is here what is your order?"
-puts "Hotdogs"
+puts "Hotdog"
 puts "Hamburger"
 puts "Tacos"
 
