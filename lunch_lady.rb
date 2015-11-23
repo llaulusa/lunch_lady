@@ -38,8 +38,8 @@ puts "One more:"
  puts "\nYou ordered a #{main}, with #{side_1} and #{side_2}."
 
  # puts "Your total is going to be: $ #{:main + :side_1 + :side_2}"
-puts "Your total is:"
-puts food.fetch(main) + food.fetch(side_1) + food.fetch(side_2)
+print "Your total is: $" 
+print food.fetch(main) + food.fetch(side_1) + food.fetch(side_2)
 
 
 end
